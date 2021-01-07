@@ -17,6 +17,7 @@ django-core==1.4.1
 django-rest-auth==0.9.5
 django-webpack-loader==0.7.0
 djangorestframework==3.11.0
+drf-writable-nested==0.6.2
 idna==2.9
 isort==4.3.21
 itsdangerous==1.1.0
